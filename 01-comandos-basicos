@@ -1,0 +1,46 @@
+Movimiento Simple:
+h: Izquierda
+j: Abajo
+k: Arriba 
+j: Derecha
+
+Movimiento Doble:
+w: Derecha
+b: Izquierda
+
+Moverse entre archivos:
+funciones -> g + i
+archivos -> g + d
+Regresar -> Ctrl + O
+
+Eliminar:
+Palabra -> d + w
+Cursor hasta el final -> d + $
+Toda la linea -> d + d
+
+Undo -> u
+Rehacer -> ctrl + R
+
+### TIP ###
+Puedes usar numeros para utilizar los comandos vistos previamente
+d4w -> borrara 4 veces una palabra
+10j -> bajara 10 lineas abajo
+
+Copiar:
+dd -> borra y copia
+
+Pegar:
+p -> pega debajo
+P -> pega arriba
+
+Remplazar:
+Posicionado al principio de la palabra:
+c + w -> change word
+
+Todo lo que se encuentra en la palabra/propiedad:
+c + i + w -> change inline word (cambia toda la palabra)
+
+
+
+
+

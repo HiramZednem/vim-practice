@@ -1,0 +1,41 @@
+Estoy aprendiendo Vim:
+	:::qqq::qqq:qq:Qq!;Q!
+  Bromaaa papa!, estoy en modo instert JAJA
+
+
+  Parece que estoy dominando el movimiento de vim, pero
+  no estoy seguro del todo
+  asi que me voy a preparar algunos ejercicios
+
+  
+  #####                 Ejercicio 1                 #### 
+            COMPLETAR ESTE EJERCICIO CON HJKL
+
+  abajo         izquierda       izqueda             sube
+  abajo                                             sube
+  abajo                                             sube
+  abajo         derecha        derecha              sube
+
+
+
+  ####               Ejercicio 2               ####
+	  COMPLETAR ESTE EJERCICIO CON JKWB
+
+  abajo    derecha      abajo     derecha      abajo
+  - 	   -	        -	  -	       -
+  -	   -		-	  -	       -
+  -	   -		-	  -	       -
+  derecha  sube         derecha   sube         abajo
+  -					       -
+  -                 			       -
+  -					       -
+  izquieda  izquierda  izquierda   izquierda   izquierda
+
+
+  ###            Ejercicio 3                  ###
+
+  ## Este es un texto para borrar palabra por palabra dw
+  ## Este es un texto aqui borrar
+
+  -> Nota Regresar el texto a su normalidad U y CTRL R,
+     para regresar cambios
